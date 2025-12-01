@@ -1,0 +1,60 @@
+{
+    "statues": [
+        { 
+            "title": "scene1",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        },
+        {
+            "title": "scene2",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        },
+        {
+            "title": "scene3",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        },
+        {
+            "title": "scene4",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        },
+        {
+            "title": "scene5",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        },
+        {
+            "title": "scene6",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        },
+        {
+            "title": "scene7",
+            "date": "2025",
+            "artist": "artist",
+            "description": "artistartist",
+            "origin": "origin",
+            "material": "material"
+        }
+    ]
+}
